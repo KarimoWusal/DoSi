@@ -4,7 +4,7 @@ A "Failure-Aware AI" platform for predictive biotech. Do Si uses a Hybrid AI Arc
 
 Just add tox21.csv to your google drive before running the code. 
 
-Thanks
 
-Dosi 
-Vusal and Toghrul
+Thanks 
+
+Vusal & Toghrul
